@@ -1,2 +1,6 @@
 # hatena-star-test
-<script src="https://s.hatena.ne.jp/js/HatenaStart.js"></script>
+## the fist star
+<script src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
+
+## the second star
+<script src="https://s.hatena.ne.jp/js/HatenaStar.js"></script>
