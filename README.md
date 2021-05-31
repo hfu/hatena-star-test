@@ -1,0 +1,1 @@
+# hatena-star-test
